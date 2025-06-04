@@ -1,0 +1,12 @@
+---files/Movies.txt---
+Line: 457
+Words: 1165
+Char: 13178
+Paragraphs: 4
+Sentences: 472
+---files/Movies.txt---
+Line: 457
+Words: 1165
+Char: 13178
+Paragraphs: 4
+Sentences: 472
