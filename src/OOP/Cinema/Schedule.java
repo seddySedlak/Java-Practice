@@ -64,8 +64,8 @@ public class Schedule {
                     addMovie(sc);
                     break;
                 case "2":
-                    getSchedule(sc);
                     System.out.println("You are going to look at the schedule.");
+                    getSchedule(sc);
                     break;
                 default:
                     System.out.println("The specified option does not exist. Try it again!\n");

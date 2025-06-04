@@ -448,10 +448,3 @@ Simone;2002;3.9;14814
 Insomnia;2002;3.5;13395
 Monster's Ball;2001;5.5;15058
 The Greatest;2009;2.2;15594
-
-First very good sentence. Second very good sentence.
-
-First very good sentence. Second very good sentence. Third very good sentence!
-
-First very good sentence. Second very good sentence. Third very good sentence? adsa adsad asdadasd
-asdasd asd asd
